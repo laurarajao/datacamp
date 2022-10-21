@@ -2,7 +2,8 @@
 
 ReadMe
 
-Installation guide - open our pneumonia application : 
+Installation guide:
+Open our pneumonia application : 
 
 You must connect to Azur / Streamlit Cloud 
 - if Azur : 
