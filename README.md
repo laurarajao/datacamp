@@ -3,9 +3,9 @@
 ReadMe
 
 Installation guide:
-Open our pneumonia application : 
+-Open our pneumonia application : 
 
-You must connect to Azur / Streamlit Cloud 
+You must connect to Azure / Streamlit Cloud 
 - if Azur : 
 Then you click on data-wep-app - Click on Browse and it will run
 
