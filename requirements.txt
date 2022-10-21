@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+tensorflow
+Pillow
+keras
+opencv-python
+psycopg2-binary
