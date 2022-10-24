@@ -3,8 +3,10 @@ pandas
 numpy
 seaborn
 matplotlib
-tensorflow
-Pillow
-keras
+tensorflow==2.10.0
+Pillow==9.0.1
+keras==2.10.0
+Keras-Preprocessing==1.1.2
 opencv-python
 psycopg2-binary
+gunicorn
